@@ -37,6 +37,6 @@ Additional thanks to the people who have contributed to the product as a whole f
 - Loren Lugosch
 - Nabil Bani
 
-If you know of someone who should be added to this list and deserves credit, cause we are human and it's hard to keep up, please TELL US! For example someone active on Transifex doing translations, or adding documentation, they are just as appreciated as people submitting issues and pull requests.
+If you know of someone who should be added to this list and deserves credit, 'cause we are human and it's hard to keep up', please TELL US! For example, someone active on Transifex doing translations or adding documentation, they are just as appreciated as people submitting issues and pull requests.
 
 PS - A particular "thank you" call out to @goetzk who posted the feedback that reminded me this file existed. Thank you Karl for posting https://github.com/goetzk/tendenci-community/blob/master/community-engagement.rst - and you are correct. I need to do better. I'm learning still, and probably always will be learning from y'all. 
