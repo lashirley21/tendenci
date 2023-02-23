@@ -83,7 +83,7 @@ Contact and Custom Forms
 
 1. Verify the official "contact" form is using the "contacts" module and not the custom forms module. There are many technical reasons for this beyond the scope of a checklist.
 
-  - Default Contact form has an email address in th "Send Copies To" field.
+  - Default Contact form has an email address in the "Send Copies To" field.
 
 2. Custom forms - a necessary evil. Verify all forms if used on the site are in "published" status
 
@@ -108,9 +108,9 @@ Edit Default Data to Make Sense
 
 3. Images are using alt tags throughout the site
 
-4. Site has been checked in an html validator (https://www.onlinewebcheck.com/check.php) and on http://www.site-analyzer.com
+4. Site has been checked in an html validator (https://validator.w3.org) and on (https://www.site-analyzer.com)
 
-5. Optional: Test site speed (http://tools.pingdom.com/fpt/)
+5. Optional: Test site speed (https://tools.pingdom.com)
 
 6. H2, H3 etc. subtitle tags are in place across the site
 
@@ -173,11 +173,11 @@ Search Engine Visibility Site Settings
   - Don't spam - should reflect what your site is about
   - Most modules have seo meta options at the bottom which override these on a per module or per page basis.
 
-7. Google Analytics is set up in site settings.
+7. Google Analytics (GA4) is set up in site settings.
 
-  - There is a field for the UA- code
+  - There is a field for the Measurement - ID
   - If using google "tags" put javascript below the <body> tag in "base.html"
-  - Direct further questions on this to forums www.tendenci.com/forums/ or an SEO professional
+  - Direct further questions on this to www.tendenci.com/support/ or an SEO professional
 
 Cross Browser Site Checking
 ---------------------------
@@ -216,9 +216,9 @@ Accessibility
 
   - https://github.com/tendenci/tendenci/issues
 
-3. Not broken, but a pain? Submit on the forum.
+3. Not broken, but a pain? Contact us directly
 
-  - https://www.tendenci.com/forums
+  - https://www.tendenci.com/support
 
 4. Talk to your developer if something in your theme is broken
 
@@ -267,7 +267,11 @@ Security Awareness - YOU ARE RESPONSIBLE
 
   - Tendenci is not your typical software. This community pushes limits and moves fast. So sometimes things break. Use common sense.
   - You can download your database at /explorer/ on your site. If not enabled talk to your developer
-  - You can create a static backup of your site by following the instructions on this blog post http://blog.tendenci.com/tag/make-a-static-copy-of-your-website/
+  - You can create a static backup of your site by following the instructions on this blog post https://www.tendenci.com/help-files/make-a-static-copy-of-your-website/
   - You can arrange with your developer to have a scheduled backup of your site pushed to your own S3 bucket on Amazon via SSH.
 
 5. You, or your developer, are responsible to keep the code up to date to be sure you have the latest security patches.
+
+6. You have all of the tools you need to remain GDPR compliant with Tendenci - The Open Source AMS
+  - GDPR Please visit https://www.tendenci.com/gdpr/
+  - HIPPA and ADA visit https://www.tendenci.com/hipaa/
