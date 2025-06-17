@@ -1,9 +1,9 @@
 # Tendenci
 
-Tendenci is an open source content management system built for non-profits, associations and cause-based sites. Functionality including association management, event registration, membership management, forums, photo galleries, donations, payments, newsletters, CRM, and much more.
+Tendenci is an enterprise open source content management system built for non-profits, associations and cause-based sites. Functionality including association management, event registration, membership management, forums, photo & video galleries, donations, payments, trainings module, newsletters, CRM, and much more.
 
 
-## Demo?
+## Free Demo?
 
 https://demo.tendenci.com/
 
@@ -17,7 +17,7 @@ See [https://tendenci.readthedocs.org](https://tendenci.readthedocs.org)
 
 ## Vision
 
-"Connect and Organize the World's People"
+"Connect and Organize the World's People. Do Good."
 
 
 ## License
@@ -25,9 +25,15 @@ See [https://tendenci.readthedocs.org](https://tendenci.readthedocs.org)
 License information (GNU GPLv3+) can be found in [LICENSE](https://github.com/tendenci/tendenci/blob/master/LICENSE)
 
 
+## GDPR & Cyber Resilience Act
+
+If you distribute or commercialize modified versions of Tendenci, you may be considered a 'manufacturer' under the CRA and must ensure your own compliance. [Information](https://www.tendenci.com/gdpr/)
+
+
 ## Credits
 
 See [docs/credits.md](https://tendenci.readthedocs.io/en/latest/credits/credits.html)
+
 
 ## Monitoring
 
